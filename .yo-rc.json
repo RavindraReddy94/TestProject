@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.4",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0",
+    "libraryName": "learning-commandset",
+    "libraryId": "c391d05e-1c13-4343-bedb-c43aaa36c92b",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "LearningCommandset",
+    "solutionShortDescription": "LearningCommandset description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ListViewCommandSet"
+  }
+}
